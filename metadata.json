@@ -1,0 +1,6 @@
+{
+  "name": "P2P Whiteboard",
+  "description": "Zero-cost, static-hosted Peer-to-Peer collaborative whiteboard with real-time sync via WebRTC and Yjs CRDT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
